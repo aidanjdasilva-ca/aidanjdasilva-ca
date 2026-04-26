@@ -8,22 +8,17 @@ I'm currently a student at Western University, where I'm diving deep into comput
 
 ## 💻 Technical Skills
 
-**Languages:** JavaScript, Python, Java, C++, SQL  
-**Frontend:** React, HTML/CSS, Tailwind CSS  
-**Backend:** Node.js, Express, Flask  
-**Tools & Platforms:** Git, GitHub, VS Code, Linux  
-**Other:** RESTful APIs, Database Design, Problem Solving
+**Languages:** JavaScript, Python, Java  
+**Frontend:** HTML/CSS  
+**Backend:** Node.js  
+**Tools & Platforms:** Git, GitHub, VS Code  
+**Other:** Problem Solving
 
 ## 🎯 Featured Projects
 
-### [Project Name 1](https://github.com/aidanjdasilva-ca/project1)
-Brief description of what this project does and the technologies used.
+### [Messaging Site](https://github.com/aidanjdasilva-ca/project1)
+A site that allows you to create an acount and mesage other people. It saves and stores personal information for repeted use and keeps track on ongoing conversations
 
-### [Project Name 2](https://github.com/aidanjdasilva-ca/project2)
-Brief description of what this project does and the technologies used.
-
-### [Project Name 3](https://github.com/aidanjdasilva-ca/project3)
-Brief description of what this project does and the technologies used.
 
 ## 📊 GitHub Stats
 
