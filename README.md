@@ -29,8 +29,7 @@ A site that allows you to create an acount and mesage other people. It saves and
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-- **Email:** aidan@example.com
-- **Twitter:** [@yourhandle](https://twitter.com)
+- **Email:** aidanjdasilva@gmail.com
 
 ## 💡 What I'm Currently Learning
 
